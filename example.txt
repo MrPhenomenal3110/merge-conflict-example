@@ -1,2 +1,4 @@
 This is some content on the main branch
 this is a new line
+
+Another new line
